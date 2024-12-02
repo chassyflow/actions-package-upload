@@ -72,8 +72,9 @@ These are examples of valid path values:
 
 ### Architecture
 
-Architecture indicates the cpu architecture of the uploaded artifact is compatible with. The following
-list contains the accepted values for `architecture`:
+Architecture indicates the cpu architecture of the uploaded artifact is
+compatible with. The following list contains the accepted values for
+`architecture`:
 
 - `AMD64`
 - `ARM64`
@@ -84,8 +85,8 @@ list contains the accepted values for `architecture`:
 
 ### OS
 
-OS specifies the name of the operating system name your artifact is compatible with.
-Any string is acceptable for `os`. Here are examples:
+OS specifies the name of the operating system name your artifact is compatible
+with. Any string is acceptable for `os`. Here are examples:
 
 - `ubuntu`
 - `debian`
